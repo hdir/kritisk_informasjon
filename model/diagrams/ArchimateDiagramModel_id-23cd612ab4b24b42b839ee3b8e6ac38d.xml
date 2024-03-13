@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KI innhold"
-    id="id-23cd612ab4b24b42b839ee3b8e6ac38d">
+    id="id-23cd612ab4b24b42b839ee3b8e6ac38d"
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dcb7fbaeb4c04cd1a26b8475c8900fd6"

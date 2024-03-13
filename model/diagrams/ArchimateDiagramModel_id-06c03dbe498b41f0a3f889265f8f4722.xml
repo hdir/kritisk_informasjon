@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KI motivasjon"
-    id="id-06c03dbe498b41f0a3f889265f8f4722">
+    id="id-06c03dbe498b41f0a3f889265f8f4722"
+    viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a861eb33371a4182a104b6c1352aa303"

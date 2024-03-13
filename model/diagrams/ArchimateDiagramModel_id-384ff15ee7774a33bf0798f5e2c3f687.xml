@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KI kapabiliteter"
-    id="id-384ff15ee7774a33bf0798f5e2c3f687">
+    id="id-384ff15ee7774a33bf0798f5e2c3f687"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-caacc9877cd540d8ad90ea48e0bc4b61"
