@@ -116,8 +116,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-89c5fe561e7043829c0999c5d727ea38.xml#id-89c5fe561e7043829c0999c5d727ea38"/>
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-a3ac6fed49a44362858ff9a5a5779158.xml#id-a3ac6fed49a44362858ff9a5a5779158"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -340,8 +340,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-f0ec22378ece4e009c0fe3ce18699484"
-      textAlignment="1"
-      content="KJ portal tjeneste eller app?&#xD;&#xA;Access (write) til lager? &#xD;&#xA;Bruk av funksjon vs service">
+      textAlignment="1">
     <bounds
         x="216"
         y="684"
