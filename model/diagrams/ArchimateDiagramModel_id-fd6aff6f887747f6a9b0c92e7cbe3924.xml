@@ -210,7 +210,7 @@
         x="415"
         y="540"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-dda8630dc6f546c49c97d7b5558c1281.xml#id-dda8630dc6f546c49c97d7b5558c1281"/>
@@ -289,7 +289,7 @@
         x="631"
         y="540"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-1cc7ad9aca424145ad160c352c49fdf9.xml#id-1cc7ad9aca424145ad160c352c49fdf9"/>
@@ -324,7 +324,7 @@
         x="811"
         y="540"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-4a2d3b774a3647d58b56bd3c6c7a363e.xml#id-4a2d3b774a3647d58b56bd3c6c7a363e"/>
@@ -372,7 +372,7 @@
         x="211"
         y="540"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-b43ba95cf6704ec28829553eaaf5f1a9.xml#id-b43ba95cf6704ec28829553eaaf5f1a9"/>
