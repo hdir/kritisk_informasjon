@@ -439,6 +439,11 @@
         id="id-a3f4b388769346bd89a80cd7e9bb0104"
         source="id-2f2dbd27eab34a9d9643d0c33cfbd1be"
         target="id-e013612f8df8423a85c26991059e508e">
+      <bendpoints
+          startX="-60"
+          startY="261"
+          endX="156"
+          endY="-267"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-685fb6bad58e4d58a2adea0850b8134e.xml#id-685fb6bad58e4d58a2adea0850b8134e"/>
@@ -448,6 +453,11 @@
         id="id-30364707f97e467786fa2aa2c921c408"
         source="id-2f2dbd27eab34a9d9643d0c33cfbd1be"
         target="id-86502de3cf9441c98c5d6ec354863e4e">
+      <bendpoints
+          startX="48"
+          startY="261"
+          endX="-108"
+          endY="-267"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-38d5283f717a446a977cde5f370f896b.xml#id-38d5283f717a446a977cde5f370f896b"/>
@@ -457,6 +467,14 @@
         id="id-7a115307d5724a11b040a8158b6880bd"
         source="id-2f2dbd27eab34a9d9643d0c33cfbd1be"
         target="id-a7a97fb99f1e418392402298b2710c17">
+      <features
+          name="labelExpression"
+          value="Sjekkes hvis 16mnd &lt; tid &lt; 3 år"/>
+      <bendpoints
+          startX="240"
+          startY="153"
+          endX="-132"
+          endY="-375"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e1231c4d4a264c6f99bd9b2c00b03632.xml#id-e1231c4d4a264c6f99bd9b2c00b03632"/>
@@ -466,6 +484,11 @@
         id="id-0acb6d9f89454a7993c0eefe2c96b7b5"
         source="id-2f2dbd27eab34a9d9643d0c33cfbd1be"
         target="id-0b901e6ac8244667ae79aaed8ec6a184">
+      <bendpoints
+          startX="312"
+          startY="105"
+          endX="-240"
+          endY="-423"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-d3481ed5e0e54ef1b31067dda7dce5b0.xml#id-d3481ed5e0e54ef1b31067dda7dce5b0"/>

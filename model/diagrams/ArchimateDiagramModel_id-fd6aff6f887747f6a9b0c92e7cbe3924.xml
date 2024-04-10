@@ -456,6 +456,11 @@
         id="id-03aa2bc19fef45de84d876a8c2a38838"
         source="id-8a6fe422ba61473aaf1cc24e468e1782"
         target="id-af356bbff1a74f6e9f433fe9295f6f64">
+      <bendpoints
+          startX="-19"
+          startY="237"
+          endX="156"
+          endY="-231"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-685fb6bad58e4d58a2adea0850b8134e.xml#id-685fb6bad58e4d58a2adea0850b8134e"/>
@@ -474,6 +479,14 @@
         id="id-6cca633b7a8e446c829a1a77fe15426a"
         source="id-8a6fe422ba61473aaf1cc24e468e1782"
         target="id-2dd4d7980b3244ab8bc3e54a87d9184d">
+      <features
+          name="labelExpression"
+          value="Må sjekkes hvis 16mnd &lt; tid &lt; 3 år&#xD;&#xA;"/>
+      <bendpoints
+          startX="269"
+          startY="93"
+          endX="-151"
+          endY="-375"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e1231c4d4a264c6f99bd9b2c00b03632.xml#id-e1231c4d4a264c6f99bd9b2c00b03632"/>
@@ -483,6 +496,11 @@
         id="id-06877caff15b44d2b59bc82ec40ae790"
         source="id-8a6fe422ba61473aaf1cc24e468e1782"
         target="id-7c14b38963a94f6987870f42c9b1f4f9">
+      <bendpoints
+          startX="377"
+          startY="57"
+          endX="-223"
+          endY="-411"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-d3481ed5e0e54ef1b31067dda7dce5b0.xml#id-d3481ed5e0e54ef1b31067dda7dce5b0"/>
