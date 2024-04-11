@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KI applikasjon"
-    id="id-eb29ee7e46134dc1a97ce8e7cb1ce05e"
-    viewpoint="application_cooperation">
+    id="id-eb29ee7e46134dc1a97ce8e7cb1ce05e">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-2d2e039903a5451cb8611fb0ce5a8ce8"
@@ -11,7 +10,7 @@
       textAlignment="1">
     <bounds
         x="276"
-        y="48"
+        y="24"
         width="517"
         height="589"/>
     <children
@@ -19,8 +18,8 @@
         id="id-d9d0f8e421094677ad5c532230013307"
         targetConnections="id-c8458f2557154e05abf99943abca4109">
       <bounds
-          x="312"
-          y="456"
+          x="348"
+          y="480"
           width="120"
           height="55"/>
       <archimateElement
@@ -58,8 +57,8 @@
             href="ServingRelationship_id-2d1d3bd4e41c4c1296fa709d67e78b96.xml#id-2d1d3bd4e41c4c1296fa709d67e78b96"/>
       </sourceConnections>
       <bounds
-          x="312"
-          y="348"
+          x="348"
+          y="372"
           width="120"
           height="55"/>
       <archimateElement
@@ -120,8 +119,8 @@
             href="ServingRelationship_id-9c1fe465bbd14efbb9131decfc74c28d.xml#id-9c1fe465bbd14efbb9131decfc74c28d"/>
       </sourceConnections>
       <bounds
-          x="120"
-          y="72"
+          x="144"
+          y="90"
           width="120"
           height="55"/>
       <archimateElement
@@ -230,13 +229,18 @@
           id="id-1c51d8303b4546418dfe9fda05916901"
           source="id-4c07cc70f8104b7b9bb555e9cdb48adf"
           target="id-ac3aa4df4ace42f8bb42b49d0b4fa5fe">
+        <bendpoints
+            startX="-456"
+            startY="9"
+            endX="-30"
+            endY="-410"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-59dcd0054aaa4d958d40a49f6ad6c010.xml#id-59dcd0054aaa4d958d40a49f6ad6c010"/>
       </sourceConnections>
       <bounds
-          x="312"
-          y="48"
+          x="348"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -293,6 +297,11 @@
         id="id-9e1c7f19cf8d4cbda92ffaff4b373ff0"
         source="id-cdf40b03cdfd4f4a9c52021f1d54f2cd"
         target="id-4c07cc70f8104b7b9bb555e9cdb48adf">
+      <bendpoints
+          startX="161"
+          startY="-75"
+          endX="-48"
+          endY="237"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-3b2185842d524571ad64f08ccf680545.xml#id-3b2185842d524571ad64f08ccf680545"/>
